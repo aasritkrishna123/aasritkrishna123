@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am aspiring **Data Analyst & Business Intelligence Analyst** with hands-on experience in **SQL, Power BI, Excel, and Python**, focused on transforming raw data into **actionable business insights**.
+I am aspiring **Data Analyst or Business Intelligence Analyst** with hands-on experience in **SQL, Power BI, Excel, and Python**, focused on transforming raw data into **actionable business insights**.
 
 I enjoy building **clean, user-friendly dashboards**, automating recurring reports, and supporting stakeholders with **accurate KPIs and performance analysis**. I have worked on real-world datasets through internships and projects involving sales, risk, and operational analytics.
 
