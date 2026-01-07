@@ -51,8 +51,8 @@ Data Analysis · Reporting · Analytical Thinking · Business Insights
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website:** _Coming Soon_  
-_(Space reserved for future deployment)_
+🔗 **Portfolio Website:**  
+👉 https://aasritkrishna123.carrd.co/
 
 ---
 
